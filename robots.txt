@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://rustic.cloud/sitemap.xml

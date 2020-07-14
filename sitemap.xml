@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://rustic.cloud/</loc>
+    </url>
+    <url>
+        <loc>https://rustic.cloud/applications/</loc>
+    </url>
+    <url>
+        <loc>https://rustic.cloud/downloads/</loc>
+    </url>
+    <url>
+        <loc>https://rustic.cloud/extensions/</loc>
+    </url>
+    <url>
+        <loc>https://rustic.cloud/home/core/</loc>
+    </url>
+    <url>
+        <loc>https://rustic.cloud/home/extensions/</loc>
+    </url>
+    <url>
+        <loc>https://rustic.cloud/home/providers/</loc>
+    </url>
+    <url>
+        <loc>https://rustic.cloud/providers/</loc>
+    </url>
+</urlset>

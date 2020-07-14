@@ -1,0 +1,1 @@
+.provider-list{display:flex;flex-direction:row;flex-wrap:wrap}.provider{flex:1 50%}@media (max-width: 1200px){.provider-list{flex-direction:column;flex-wrap:nowrap}.provider{flex:unset}}
